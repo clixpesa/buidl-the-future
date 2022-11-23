@@ -1,0 +1,14 @@
+{
+  "name": "@buidl-the-future/hardhat",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "Apache 2.0",
+  "dependencies": {
+    
+  },
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^2.0.0",
+    "hardhat": "^2.12.2"
+  },
+  "private": true
+}
